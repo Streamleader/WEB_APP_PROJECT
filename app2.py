@@ -16,7 +16,7 @@ add_selectbox = st.sidebar.selectbox(
 
 
 if add_selectbox == 'PHONE'
-    a=st.number_input("ENTER YOUR PHONE NUMBER")
+    st.number_input("ENTER YOUR PHONE NUMBER")
 
 
 mile=st.number_input('Enter a Mileage value:')
