@@ -3,7 +3,7 @@ import requests
 from streamlit_lottie import st_lottie
 
 
-st.set_page_config(page_title="Pamela web",
+st.set_page_config(page_title="Matsela web",
                    page_icon=" :tada: ", layout="wide")
 
 
@@ -29,15 +29,15 @@ with st.container():
     st.write("---")
     left_column, right_column = st.columns(2)
     with left_column:
-        st.header("TO PAMELA")
+        st.header("TO MATSELA")
         st.write("##")
 
         st.write(
             """
             ake tsebe ke ngwaleng but just know that:
             - O botsana 
-            - you real
-            - And you gonn make a great engineer 
+            - you SMART
+            - And you gonn make a great TEACHER 
             - Most importantly ketlo nyala ka masepa 
             - Data scientist e bhoregileng ":laugh:"
          
